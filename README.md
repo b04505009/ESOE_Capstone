@@ -12,6 +12,6 @@
 ## Settings
 - 超音波
   - Trigger Signal(GPIO): PA1, PC0, PB0
-  - Internal clock: TIM2, TIM3, TIM4
-  - Echo(Input Capture): TIM15(PB14), TIM16(PA12), TIM17(PA7)
+  - Internal clock: TIM1
+  - Echo(Input Capture): TIM2(PA0), TIM3(PA6), TIM4(PA11)
 
